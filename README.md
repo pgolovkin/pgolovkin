@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Pavel
 
-## I'm a Project Lead at blockchain ecosystem 
+## I'm a Project Lead in the blockchain ecosystem 
 
 - 🚀 My main project now is Omni Enterprise (WIP)
 - 📈 I'm improving my management skills
