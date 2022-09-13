@@ -1,26 +1,16 @@
-### Hi there 👋
+### Hi there 👋 My name is Pavel
 
-<!--
-**pgolovkin/pgolovkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Project Lead at blockchain ecosystem 
+– My main project now is Omni Enterprise
+- I'm improving my management skills
+- I still learning technologies like Rust
+- I’m looking for talanted developers who'd like to work with Polkadot ecosystem
 
-Here are some ideas to get you started:
+## You can find me in
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pgolovkin/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pgolovkin/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF)](https://www.rust-lang.org/) | [![nova-wallet/metadata-portal](https://img.shields.io/static/v1?label=&message=metadata-portal&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/nova-wallet/metadata-portal) |
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
-
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
@@ -34,3 +24,5 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 </details>
+
+[linkedin]: https://www.linkedin.com/in/pgolovkin/
