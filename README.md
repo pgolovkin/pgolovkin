@@ -1,10 +1,11 @@
 ### Hi there 👋 My name is Pavel
 
 ## I'm a Project Lead at blockchain ecosystem 
-– My main project now is Omni Enterprise
-- I'm improving my management skills
-- I still learning technologies like Rust
-- I’m looking for talanted developers who'd like to work with Polkadot ecosystem
+
+- 🚀 My main project now is Omni Enterprise (WIP)
+- 📈 I'm improving my management skills
+- ⚙️ I still learning technologies like Rust
+- 🧑‍💻 I’m looking for talanted developers who'd like to work with Polkadot ecosystem
 
 ## You can find me in
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pgolovkin/)
@@ -24,5 +25,3 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-[linkedin]: https://www.linkedin.com/in/pgolovkin/
