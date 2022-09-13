@@ -1,6 +1,0 @@
-- name: Rust
-  logo: rust
-  url: https://www.rust-lang.org/
-  color: '#000000'
-  projects:
-    - url: https://github.com/nova-wallet/metadata-portal
