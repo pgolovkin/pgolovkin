@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<!-- START OF PROFILE STACK, DO NOT REMOVE -->
+| 💻 **Technology** | 🚀 **Projects** |
+| - | - |
+| [![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF)](https://www.rust-lang.org/) | [![nova-wallet/metadata-portal](https://img.shields.io/static/v1?label=&message=metadata-portal&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/nova-wallet/metadata-portal) |
+<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   
@@ -27,9 +34,3 @@ Here are some ideas to get you started:
 <!--END_SECTION:activity-->
 
 </details>
-
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-| - | - |
-| [![Rust](https://img.shields.io/static/v1?label=&message=Rust&color=000000&logo=rust&logoColor=FFFFFF)](https://www.rust-lang.org/) | [![nova-wallet/metadata-portal](https://img.shields.io/static/v1?label=&message=metadata-portal&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/nova-wallet/metadata-portal) |
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
