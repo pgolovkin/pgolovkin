@@ -8,8 +8,8 @@
 - 🧑‍💻 I’m looking for talanted developers who'd like to work with Polkadot ecosystem
 
 ## You can find me in
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/pgolovkin/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/pgolovkin/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/golovkinpl/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/golovkinpl/)
 
 ---
 
