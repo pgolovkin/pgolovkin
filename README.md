@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1243](https://github.com/paritytech/substrate-connect/issues/1243) in [paritytech/substrate-connect](https://github.com/paritytech/substrate-connect)
-2. 🗣 Commented on [#2468](https://github.com/paritytech/smoldot/issues/2468) in [paritytech/smoldot](https://github.com/paritytech/smoldot)
-3. 🎉 Merged PR [#127](https://github.com/nova-wallet/metadata-portal/pull/127) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-4. 🎉 Merged PR [#126](https://github.com/nova-wallet/metadata-portal/pull/126) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-5. 🎉 Merged PR [#125](https://github.com/nova-wallet/metadata-portal/pull/125) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+1. 🎉 Merged PR [#129](https://github.com/nova-wallet/metadata-portal/pull/129) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+2. 🎉 Merged PR [#128](https://github.com/nova-wallet/metadata-portal/pull/128) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+3. 🗣 Commented on [#1243](https://github.com/paritytech/substrate-connect/issues/1243) in [paritytech/substrate-connect](https://github.com/paritytech/substrate-connect)
+4. 🗣 Commented on [#1243](https://github.com/paritytech/substrate-connect/issues/1243) in [paritytech/substrate-connect](https://github.com/paritytech/substrate-connect)
+5. 🗣 Commented on [#2468](https://github.com/paritytech/smoldot/issues/2468) in [paritytech/smoldot](https://github.com/paritytech/smoldot)
 <!--END_SECTION:activity-->
 
 </details>
