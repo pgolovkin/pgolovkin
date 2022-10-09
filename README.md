@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#151](https://github.com/nova-wallet/metadata-portal/issues/151) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-2. 💪 Opened PR [#149](https://github.com/nova-wallet/metadata-portal/pull/149) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-3. 💪 Opened PR [#148](https://github.com/nova-wallet/metadata-portal/pull/148) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-4. 🎉 Merged PR [#146](https://github.com/nova-wallet/metadata-portal/pull/146) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-5. 🗣 Commented on [#5240](https://github.com/polkadot-js/api/issues/5240) in [polkadot-js/api](https://github.com/polkadot-js/api)
+1. 🗣 Commented on [#191](https://github.com/nimiq/qr-scanner/issues/191) in [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner)
+2. 💪 Opened PR [#136](https://github.com/cberner/raptorq/pull/136) in [cberner/raptorq](https://github.com/cberner/raptorq)
+3. 🎉 Merged PR [#161](https://github.com/nova-wallet/metadata-portal/pull/161) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+4. 🎉 Merged PR [#160](https://github.com/nova-wallet/metadata-portal/pull/160) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+5. 💪 Opened PR [#160](https://github.com/nova-wallet/metadata-portal/pull/160) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
 <!--END_SECTION:activity-->
 
 </details>
