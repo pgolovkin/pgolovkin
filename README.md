@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/nimiq/qr-scanner/issues/191) in [nimiq/qr-scanner](https://github.com/nimiq/qr-scanner)
-2. 💪 Opened PR [#136](https://github.com/cberner/raptorq/pull/136) in [cberner/raptorq](https://github.com/cberner/raptorq)
-3. 🎉 Merged PR [#161](https://github.com/nova-wallet/metadata-portal/pull/161) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-4. 🎉 Merged PR [#160](https://github.com/nova-wallet/metadata-portal/pull/160) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-5. 💪 Opened PR [#160](https://github.com/nova-wallet/metadata-portal/pull/160) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+1. 🎉 Merged PR [#165](https://github.com/nova-wallet/metadata-portal/pull/165) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+2. 🎉 Merged PR [#164](https://github.com/nova-wallet/metadata-portal/pull/164) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+3. 💪 Opened PR [#139](https://github.com/cberner/raptorq/pull/139) in [cberner/raptorq](https://github.com/cberner/raptorq)
+4. 🎉 Merged PR [#163](https://github.com/nova-wallet/metadata-portal/pull/163) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+5. 🎉 Merged PR [#162](https://github.com/nova-wallet/metadata-portal/pull/162) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
 <!--END_SECTION:activity-->
 
 </details>
