@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#258](https://github.com/nova-wallet/metadata-portal/pull/258) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-2. 🎉 Merged PR [#257](https://github.com/nova-wallet/metadata-portal/pull/257) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-3. 🎉 Merged PR [#255](https://github.com/nova-wallet/metadata-portal/pull/255) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-4. 🎉 Merged PR [#254](https://github.com/nova-wallet/metadata-portal/pull/254) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-5. 🎉 Merged PR [#253](https://github.com/nova-wallet/metadata-portal/pull/253) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+1. 🎉 Merged PR [#265](https://github.com/nova-wallet/metadata-portal/pull/265) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+2. 🎉 Merged PR [#263](https://github.com/nova-wallet/metadata-portal/pull/263) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+3. 🎉 Merged PR [#260](https://github.com/nova-wallet/metadata-portal/pull/260) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+4. 🎉 Merged PR [#259](https://github.com/nova-wallet/metadata-portal/pull/259) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+5. 🎉 Merged PR [#258](https://github.com/nova-wallet/metadata-portal/pull/258) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
 <!--END_SECTION:activity-->
 
 </details>
