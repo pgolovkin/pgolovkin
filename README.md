@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#275](https://github.com/nova-wallet/metadata-portal/pull/275) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-2. 🎉 Merged PR [#274](https://github.com/nova-wallet/metadata-portal/pull/274) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-3. ❗️ Opened issue [#3138](https://github.com/matrix-org/matrix-js-sdk/issues/3138) in [matrix-org/matrix-js-sdk](https://github.com/matrix-org/matrix-js-sdk)
-4. 🎉 Merged PR [#273](https://github.com/nova-wallet/metadata-portal/pull/273) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-5. 🎉 Merged PR [#272](https://github.com/nova-wallet/metadata-portal/pull/272) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+1. 💪 Opened PR [#282](https://github.com/nova-wallet/metadata-portal/pull/282) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+2. 🎉 Merged PR [#279](https://github.com/nova-wallet/metadata-portal/pull/279) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+3. 🎉 Merged PR [#278](https://github.com/nova-wallet/metadata-portal/pull/278) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+4. 🎉 Merged PR [#277](https://github.com/nova-wallet/metadata-portal/pull/277) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+5. 🎉 Merged PR [#275](https://github.com/nova-wallet/metadata-portal/pull/275) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
 <!--END_SECTION:activity-->
 
 </details>
