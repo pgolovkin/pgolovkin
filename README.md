@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1703](https://github.com/paritytech/parity-signer/issues/1703) in [paritytech/parity-signer](https://github.com/paritytech/parity-signer)
-2. 🗣 Commented on [#1703](https://github.com/paritytech/parity-signer/issues/1703) in [paritytech/parity-signer](https://github.com/paritytech/parity-signer)
-3. ❗️ Opened issue [#1703](https://github.com/paritytech/parity-signer/issues/1703) in [paritytech/parity-signer](https://github.com/paritytech/parity-signer)
-4. 🎉 Merged PR [#302](https://github.com/nova-wallet/metadata-portal/pull/302) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-5. 🎉 Merged PR [#301](https://github.com/nova-wallet/metadata-portal/pull/301) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+1. 💪 Opened PR [#6911](https://github.com/paritytech/polkadot/pull/6911) in [paritytech/polkadot](https://github.com/paritytech/polkadot)
+2. 🎉 Merged PR [#307](https://github.com/nova-wallet/metadata-portal/pull/307) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+3. 🎉 Merged PR [#306](https://github.com/nova-wallet/metadata-portal/pull/306) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+4. 🗣 Commented on [#1342](https://github.com/paritytech/parity-signer/issues/1342) in [paritytech/parity-signer](https://github.com/paritytech/parity-signer)
+5. 🗣 Commented on [#1342](https://github.com/paritytech/parity-signer/issues/1342) in [paritytech/parity-signer](https://github.com/paritytech/parity-signer)
 <!--END_SECTION:activity-->
 
 </details>
