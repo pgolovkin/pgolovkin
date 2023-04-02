@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#313](https://github.com/nova-wallet/metadata-portal/pull/313) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-2. ❗️ Opened issue [#587](https://github.com/paritytech/metadata-portal/issues/587) in [paritytech/metadata-portal](https://github.com/paritytech/metadata-portal)
-3. 🗣 Commented on [#468](https://github.com/paritytech/metadata-portal/issues/468) in [paritytech/metadata-portal](https://github.com/paritytech/metadata-portal)
-4. 🎉 Merged PR [#312](https://github.com/nova-wallet/metadata-portal/pull/312) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-5. 🎉 Merged PR [#309](https://github.com/nova-wallet/metadata-portal/pull/309) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+1. 🎉 Merged PR [#320](https://github.com/nova-wallet/metadata-portal/pull/320) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+2. 💪 Opened PR [#318](https://github.com/nova-wallet/metadata-portal/pull/318) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+3. ❌ Closed PR [#606](https://github.com/paritytech/metadata-portal/pull/606) in [paritytech/metadata-portal](https://github.com/paritytech/metadata-portal)
+4. 💪 Opened PR [#606](https://github.com/paritytech/metadata-portal/pull/606) in [paritytech/metadata-portal](https://github.com/paritytech/metadata-portal)
+5. 🎉 Merged PR [#317](https://github.com/nova-wallet/metadata-portal/pull/317) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
 <!--END_SECTION:activity-->
 
 </details>
