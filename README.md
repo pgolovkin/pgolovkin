@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#329](https://github.com/nova-wallet/metadata-portal/pull/329) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-2. 🎉 Merged PR [#314](https://github.com/nova-wallet/metadata-portal/pull/314) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-3. ❗️ Opened issue [#926](https://github.com/crustio/crust/issues/926) in [crustio/crust](https://github.com/crustio/crust)
-4. ❗️ Opened issue [#408](https://github.com/hashed-io/hashed-substrate/issues/408) in [hashed-io/hashed-substrate](https://github.com/hashed-io/hashed-substrate)
-5. 🎉 Merged PR [#328](https://github.com/nova-wallet/metadata-portal/pull/328) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+1. 🎉 Merged PR [#333](https://github.com/nova-wallet/metadata-portal/pull/333) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+2. 🎉 Merged PR [#331](https://github.com/nova-wallet/metadata-portal/pull/331) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+3. ❗️ Closed issue [#926](https://github.com/crustio/crust/issues/926) in [crustio/crust](https://github.com/crustio/crust)
+4. 🗣 Commented on [#926](https://github.com/crustio/crust/issues/926) in [crustio/crust](https://github.com/crustio/crust)
+5. 🎉 Merged PR [#330](https://github.com/nova-wallet/metadata-portal/pull/330) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
 <!--END_SECTION:activity-->
 
 </details>
