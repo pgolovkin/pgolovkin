@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#368](https://github.com/nova-wallet/metadata-portal/pull/368) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-2. 🗣 Commented on [#318](https://github.com/nova-wallet/metadata-portal/issues/318) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-3. 🗣 Commented on [#318](https://github.com/nova-wallet/metadata-portal/issues/318) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-4. 🎉 Merged PR [#367](https://github.com/nova-wallet/metadata-portal/pull/367) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
-5. 🗣 Commented on [#364](https://github.com/nova-wallet/metadata-portal/issues/364) in [nova-wallet/metadata-portal](https://github.com/nova-wallet/metadata-portal)
+1. ❗ Opened issue [#1433](https://github.com/paritytech/substrate-connect/issues/1433) in [paritytech/substrate-connect](https://github.com/paritytech/substrate-connect)
+2. 🎉 Merged PR [#374](https://github.com/novasamatech/metadata-portal/pull/374) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+3. 🎉 Merged PR [#17](https://github.com/novasamatech/nova-spektr-utils/pull/17) in [novasamatech/nova-spektr-utils](https://github.com/novasamatech/nova-spektr-utils)
+4. 🎉 Merged PR [#373](https://github.com/novasamatech/metadata-portal/pull/373) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+5. 🎉 Merged PR [#372](https://github.com/novasamatech/metadata-portal/pull/372) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
 <!--END_SECTION:activity-->
 
 </details>
