@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#377](https://github.com/novasamatech/metadata-portal/pull/377) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
-2. 🗣 Commented on [#1433](https://github.com/paritytech/substrate-connect/issues/1433) in [paritytech/substrate-connect](https://github.com/paritytech/substrate-connect)
-3. 🎉 Merged PR [#376](https://github.com/novasamatech/metadata-portal/pull/376) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
-4. 🗣 Commented on [#1433](https://github.com/paritytech/substrate-connect/issues/1433) in [paritytech/substrate-connect](https://github.com/paritytech/substrate-connect)
-5. 🎉 Merged PR [#375](https://github.com/novasamatech/metadata-portal/pull/375) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+1. 🎉 Merged PR [#387](https://github.com/novasamatech/metadata-portal/pull/387) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+2. 🗣 Commented on [#387](https://github.com/novasamatech/metadata-portal/issues/387) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+3. ❌ Closed PR [#386](https://github.com/novasamatech/metadata-portal/pull/386) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+4. 💪 Opened PR [#387](https://github.com/novasamatech/metadata-portal/pull/387) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+5. 🎉 Merged PR [#384](https://github.com/novasamatech/metadata-portal/pull/384) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
 <!--END_SECTION:activity-->
 
 </details>
