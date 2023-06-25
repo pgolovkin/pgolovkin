@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#387](https://github.com/novasamatech/metadata-portal/pull/387) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
-2. 🗣 Commented on [#387](https://github.com/novasamatech/metadata-portal/issues/387) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
-3. ❌ Closed PR [#386](https://github.com/novasamatech/metadata-portal/pull/386) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
-4. 💪 Opened PR [#387](https://github.com/novasamatech/metadata-portal/pull/387) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
-5. 🎉 Merged PR [#384](https://github.com/novasamatech/metadata-portal/pull/384) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+1. 🎉 Merged PR [#396](https://github.com/novasamatech/metadata-portal/pull/396) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+2. 🎉 Merged PR [#395](https://github.com/novasamatech/metadata-portal/pull/395) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+3. 🎉 Merged PR [#394](https://github.com/novasamatech/metadata-portal/pull/394) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+4. 🎉 Merged PR [#393](https://github.com/novasamatech/metadata-portal/pull/393) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+5. 🎉 Merged PR [#392](https://github.com/novasamatech/metadata-portal/pull/392) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
 <!--END_SECTION:activity-->
 
 </details>
