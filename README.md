@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#956](https://github.com/novasamatech/nova-spektr/issues/956) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
-2. 🎉 Merged PR [#412](https://github.com/novasamatech/metadata-portal/pull/412) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
-3. 💪 Opened PR [#956](https://github.com/novasamatech/nova-spektr/pull/956) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
-4. 🎉 Merged PR [#951](https://github.com/novasamatech/nova-spektr/pull/951) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
-5. 💪 Opened PR [#945](https://github.com/novasamatech/nova-spektr/pull/945) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
+1. 🎉 Merged PR [#413](https://github.com/novasamatech/metadata-portal/pull/413) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+2. 🗣 Commented on [#863](https://github.com/smol-dot/smoldot/pull/863#issuecomment-1629592099) in [smol-dot/smoldot](https://github.com/smol-dot/smoldot)
+3. 🗣 Commented on [#863](https://github.com/smol-dot/smoldot/pull/863#issuecomment-1629132864) in [smol-dot/smoldot](https://github.com/smol-dot/smoldot)
+4. 🔒 Closed issue [#401](https://github.com/novasamatech/nova-spektr/issues/401) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
+5. 🔒 Closed issue [#405](https://github.com/novasamatech/nova-spektr/issues/405) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
 <!--END_SECTION:activity-->
 
 </details>
