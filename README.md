@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#911](https://github.com/novasamatech/metadata-portal/pull/911) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
-2. 🗣 Commented on [#1971](https://github.com/novasamatech/nova-spektr/issues/1971#issuecomment-2236280475) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
-3. ❗ Opened issue [#1971](https://github.com/novasamatech/nova-spektr/issues/1971) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
-4. 🎉 Merged PR [#908](https://github.com/novasamatech/metadata-portal/pull/908) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
-5. 🎉 Merged PR [#906](https://github.com/novasamatech/metadata-portal/pull/906) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+1. 🎉 Merged PR [#921](https://github.com/novasamatech/metadata-portal/pull/921) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+2. 🎉 Merged PR [#920](https://github.com/novasamatech/metadata-portal/pull/920) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+3. ❗ Opened issue [#1985](https://github.com/novasamatech/nova-spektr/issues/1985) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
+4. ❗ Opened issue [#1984](https://github.com/novasamatech/nova-spektr/issues/1984) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
+5. 🎉 Merged PR [#919](https://github.com/novasamatech/metadata-portal/pull/919) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
 <!--END_SECTION:activity-->
 
 </details>
