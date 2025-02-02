@@ -17,11 +17,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3037](https://github.com/novasamatech/nova-spektr/issues/3037) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
-2. ❗ Opened issue [#3031](https://github.com/novasamatech/nova-spektr/issues/3031) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
-3. ❗ Opened issue [#3030](https://github.com/novasamatech/nova-spektr/issues/3030) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
-4. ❗ Opened issue [#3028](https://github.com/novasamatech/nova-spektr/issues/3028) in [novasamatech/nova-spektr](https://github.com/novasamatech/nova-spektr)
-5. 🎉 Merged PR [#1133](https://github.com/novasamatech/metadata-portal/pull/1133) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+1. 🎉 Merged PR [#1140](https://github.com/novasamatech/metadata-portal/pull/1140) in [novasamatech/metadata-portal](https://github.com/novasamatech/metadata-portal)
+2. 🗣 Commented on [#24](https://github.com/novasamatech/validator-observer/pull/24#issuecomment-2624761605) in [novasamatech/validator-observer](https://github.com/novasamatech/validator-observer)
+3. ❌ Closed PR [#24](https://github.com/novasamatech/validator-observer/pull/24) in [novasamatech/validator-observer](https://github.com/novasamatech/validator-observer)
+4. 💪 Opened PR [#1](https://github.com/novasamatech/fellowship-observer/pull/1) in [novasamatech/fellowship-observer](https://github.com/novasamatech/fellowship-observer)
+5. 💪 Opened PR [#24](https://github.com/novasamatech/validator-observer/pull/24) in [novasamatech/validator-observer](https://github.com/novasamatech/validator-observer)
 <!--END_SECTION:activity-->
 
 </details>
